@@ -1,0 +1,113 @@
+.header{
+    background-color: #5d4613;
+    position:relative;
+    width:100%;
+    Height:118px;
+    z-index:1;
+    float:left;
+}
+.page-banner{
+    background-image: url("./images/tiger.jpg");
+    height: 750px;
+    background-size:cover;
+    background-size: cover;
+    
+
+}
+body{
+    width:100%;
+}
+
+    li{
+       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+       font-size: 20px;
+       color: #f5b640;
+       display:inline-block; 
+       margin-left: 50px;
+    
+
+   } 
+   nav {
+       margin-left:1200px;
+       margin-top: 0px;
+       /*position:absolute;*/
+   }
+ 
+  .h1-container{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    color: #f6ecb9;
+    padding :  300px 10px ;
+    text-align : center;
+
+    
+    }
+        #title{
+          margin-top: -100px;
+        }
+
+        
+
+    
+
+    #sub-title{
+        margin-top: -40px;
+        position:relative;
+        font-size:x-large;
+        text-decoration-line:none !important;
+        color:#f5b640;
+    }
+      #genlogo{
+          /*padding: 10px 10px 10px 10px;*/
+          border: 2px  solid black;
+        margin-left: 6px ;
+        margin-top: 6px;
+         
+           }
+           #menu-list{
+               padding:  75px 100px 20px 50px;
+
+           }
+           li:hover{
+               
+               border:2px;
+               background-color: black;
+               color:#fff;
+           }
+    
+           .section1{
+               width:100%;
+               height:850px;
+               
+               position:relative;
+           }
+
+           .comingsoon { 
+               
+            display: flex;
+            justify-content: center;
+          margin-top: 60px;
+              background-color:#5d4613;
+            height: 800px;
+            width: 800px;
+            border-radius: 100%;
+            border: 2px solid black;
+            text-align:center;
+                padding: opx 100px 0px 0px;
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+                width: 40%;
+           }
+
+
+
+         .coming{
+             
+             margin-top:178px;
+             width: 100%;
+             height : 100%;
+            
+         }
+    
