@@ -19,9 +19,10 @@ I look forward to working with all of you amazing people and I can't wait to see
 
 ## HOME PAGE ##
 1. Rabia
-2. Swetha
-3. Sandeep
-4. Kanchan
+Added Intro Section under Main Banner. Would like to refine the words with your suggestion or direct update.
+3. Swetha
+4. Sandeep
+5. Kanchan
 
 ## ABOUT ##
 1. Sreejith
